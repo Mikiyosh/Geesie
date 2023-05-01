@@ -26,5 +26,5 @@
 
 ## 参考にした web サイトなど
 
-  - Barbieのインスタ、HP
+  - Barbieのインスタ、HP等
   
